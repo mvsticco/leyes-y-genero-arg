@@ -1,2 +1,3 @@
 # leyes-y-genero-arg
-Resultados del proceso de investigación de un seminario externo de la carrera de sociología UBA
+Hola! soy estudiante de la carrera de Sociología (UBA) y realicé horas externas de investigación en el grupo "Data Science y Ciencias Sociales" de la carrera de Ciencia Política.
+En este espacio me dediqué a aprender nociones básicas de Procesamiento Natural del Lenguaje (o NLP por sus siglas en inglés), reducción de dimensiones y clusterización. De esta manera me fue posible hacer una pequeña práctica scrapeando las leyes publicadas en Argentina desde el 2011 hasta julio de 2021 y poder analizarlas mediante la libreria BERTopic. El objetivo final era poder conocer los tópicos de género en las leyes y su relevancia.  
